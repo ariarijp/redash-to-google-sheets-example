@@ -16,7 +16,7 @@ python-dateutil==2.7.5
 pytz==2018.7
 redash-dynamic-query==1.0.4
 requests==2.21.0
-rsa==4.0
+rsa==4.1
 six==1.12.0
 uritemplate==3.0.0
 urllib3==1.24.2
