@@ -19,6 +19,6 @@ requests==2.21.0
 rsa==4.0
 six==1.12.0
 uritemplate==3.0.0
-urllib3==1.24.2
+urllib3==1.26.5
 -e git+https://github.com/ariarijp/pandash.git#egg=pandash-0.1.0
 -e git+https://github.com/ariarijp/pandaspread.git#egg=pandaspread-0.1.0
